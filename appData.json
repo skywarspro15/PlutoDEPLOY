@@ -1,0 +1,4 @@
+{
+  "pkgId": "apps:cust-app",
+  "splashScreen": "apps:cust-loader"
+}

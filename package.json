@@ -1,0 +1,17 @@
+{
+  "name": "plutodeploy",
+  "version": "1.0.0",
+  "description": "Pluto compatibility layer for Windows",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Tranch Software",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "electron": "^28.2.1"
+  }
+}
